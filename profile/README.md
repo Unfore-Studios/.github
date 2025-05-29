@@ -10,12 +10,12 @@ Founded in 2023, we are a group of developers from Australia and America.
 We have many games, these include:
 <details>
   <summary>The Untold Secrets</summary>
-  ![The Untold Secrets](img/projects/untoldsecrets.png)
+  <a>![Group Logo](img/projects/untoldsecrets.png)</a>
   W.I.P
 </details>
 <details>
   <summary>Nexus</summary>
-  ![Nexus Bot](img/projects/nexus.png)
+  <a>![Group Logo](img/projects/nexus.png)</a>
   A multi-function discord bot.
 </details>
 <details>
