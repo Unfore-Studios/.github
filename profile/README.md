@@ -1,6 +1,6 @@
 # UnforeStudios
 
-![Group Logo}(img/grouplogo.png)
+![Group Logo}(profile/img/grouplogo.png)
 
 A small indie development group.
 **Here about UnforeSpace? Click [here](#unforespace)**
@@ -10,12 +10,12 @@ Founded in 2023, we are a group of developers from Australia and America.
 We have many games, these include:
 <details>
   <summary>The Untold Secrets</summary>
-  ![The Untold Secrets}(img/projects/untoldsecrets.png)
+  ![The Untold Secrets}(profile/img/projects/untoldsecrets.png)
   W.I.P
 </details>
 <details>
   <summary>Nexus</summary>
-  ![Nexus Bot}(img/projects/nexus.png)
+  ![Nexus Bot}(profile/img/projects/nexus.png)
   A multi-function discord bot.
 </details>
 <details>
